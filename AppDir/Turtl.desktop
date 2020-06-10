@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Office;TextTools;
+Comment=The secure, collaborative notebook
+Exec=AppRun %U
+Icon=turtl
+Name=Turtl
+StartupNotify=true
+StartupWMClass=turtl
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-KDE-Protocols=turtl
